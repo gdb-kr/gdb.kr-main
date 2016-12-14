@@ -25,12 +25,15 @@
 
                 <div class="name">
                   <h3 class="title">Suhwan Cha</h3>
-        					<h6>Developer</h6>
+        					<h6>CEO & Developer</h6>
                 </div>
               </div>
             </div>
             <div class="description text-center">
+                  <p>2015 ~ gdb.kr Co. CEO&Developer<p>
+                  <p>2015-17 Korea Digital Media HighSchool, Hacking Defense major.</p>
                   <p>Full-stack web Developer</p>
+                  <p>Hacker</p>
             </div>
 
 					<div class="row">
@@ -137,8 +140,11 @@
                             <span class="sr-only">30% Complete</span>
                             </div>
                           </div>
-
-
+                          <h3>Prize</h3>
+                            <h4>DimiCon(2015 DIMIGO CTF)</h4>
+                            - 6rd(Bronze) -
+                            <h4>Dimigo CTF(2016)</h4>
+                            - 2nd(Silver) -
 												</div>
 											</div>
 				                        </div>
@@ -170,14 +176,22 @@
 						</a>
 					</li>
 					<li>
-						<a href="blog.gdb.kr">
+						<a href="//blog.gdb.kr">
 						   Blog
 						</a>
 					</li>
+          <li style="text-align:center;">
+            <a href="https://www.sc.or.kr/" style="text-align:center;">
+              <div class='col-md-6 col-xs-12' style="text-align:center;">
+                 <img src='stc.png' style='max-width:100%'>
+               </div>
+            </a>
+          </li>
 				</ul>
+
             </nav>
             <div class="copyright pull-right">
-                &copy; 2016, made with <i class="fa fa-heart heart"></i> by Creative Tim
+                Theme by Creative-tim, gdb.kr
             </div>
         </div>
     </footer>

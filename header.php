@@ -38,7 +38,7 @@
 
         	<div class="collapse navbar-collapse" id="navigation-example">
         		<ul class="nav navbar-nav navbar-right">
-				   				<li>
+				   				<!-- <li>
           					<a href="#" target="_blank">
           						<i class="material-icons">code</i>Portfolio
           					</a>
@@ -47,7 +47,7 @@
           					<a href="#" target="_blank">
           						<i class="material-icons">chat</i> Connect
           					</a>
-          				</li>
+          				</li> -->
           				<li>
           					<a rel="tooltip" title="Connect with Facebook" data-placement="bottom" href="https://www.facebook.com/profile.php?id=100003860414593" target="_blank" class="btn btn-white btn-simple btn-just-icon">
           						<i class="fa fa-facebook-square"></i>
